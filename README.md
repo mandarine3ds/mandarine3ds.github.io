@@ -1,6 +1,6 @@
 <h1 align="center">
     <a href="https://github.com/mandarine3ds/mandarine" target="_blank">
-        <img height="60%" width="60%" src="https://github.com/mandarine3ds/mandarine/blob/master/assets/mandarine.png"><br>
+        <img height="60%" width="60%" src="https://github.com/mandarine3ds/mandarine/blob/master/dist/icon.png"><br>
     </a>
     <a href="https://discord.gg/8xjMHWEuf6" target="_blank">
         <img src="https://dcbadge.vercel.app/api/server/8xjMHWEuf6">
