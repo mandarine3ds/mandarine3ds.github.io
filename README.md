@@ -1,14 +1,22 @@
 <h1 align="center">
-    <a href="https://github.com/mandarine3ds/mandarine" target="_blank">
-        <img height="60%" width="60%" src="https://github.com/mandarine3ds/mandarine/blob/master/dist/icon.png"><br>
-    </a>
-    <a href="https://discord.gg/8xjMHWEuf6" target="_blank">
-        <img src="https://dcbadge.vercel.app/api/server/8xjMHWEuf6">
-    </a>
-    <a href="https://github.com/strato-emu/strato-emu.github.io/actions/workflows/hugo.yml" target="_blank">
-        <img src="https://github.com/mandarine3ds/mandarine3ds.github.io/actions/workflows/hugo.yml/badge.svg"><br>
-    </a>
+  <img src="https://github.com/mandarine3ds/mandarine/blob/master/dist/mandarine.svg" alt="mandarine" width="188"/>
+</p>
+<p align="center" style="font-size:144px;">
+  <strong>Mandarine</strong>
 </h1>
+
+<p align="center">
+  <a href="https://github.com/strato-emu/strato-emu.github.io/actions/workflows/hugo.yml" target="Workflows">
+    <img src="https://github.com/mandarine3ds/mandarine3ds.github.io/actions/workflows/hugo.yml/badge.svg"><br>
+  </a>
+  <br>
+  <a href="https://discord.gg/8xjMHWEuf6">
+    <img src="https://dcbadge.limes.pink/api/server/8xjMHWEuf6" alt="Discord"/>
+  </a>
+  <a href="https://t.me/+lTkg6yC6pQAxNzM0">
+    <img src="https://patrolavia.github.io/telegram-badge/chat.png" alt="Telegram"/>
+  </a>
+</p>
 
 <p align="center">
     <b><a href="CONTRIBUTING.md">Contributing Guide</a></b>
