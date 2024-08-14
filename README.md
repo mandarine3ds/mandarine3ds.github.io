@@ -23,11 +23,11 @@
 </p>
 
 <p align="center">
-  <b>Mandarine3DS Website</b> is a statically generated website built with <b>Hugo</b> based on the <b>Hugo Blog Awesome</b> theme, licensed under <a href="LICENSE"><b>The MIT License (MIT)</b></a>.
+  <b>Mandarine3DS website</b> is a statically generated website built with <b>Hugo</b> based on the <b>Hugo Blog Awesome</b> theme, licensed under <a href="LICENSE"><b>The MIT License (MIT)</b></a>.
 </p>
 
 ---
 
 ### Contact
 
-You can contact me on **[Discord](https://discord.gg/8xjMHWEuf6)**. If you have any questions, feel free to ask. It's also a good place to just keep up with the emulator, as most talk regarding development goes on over there.
+You can contact me on Discord and Telegram. If you have any questions, feel free to ask. It's also a good place to just keep up with the emulator, as most talk regarding development goes on over there.
